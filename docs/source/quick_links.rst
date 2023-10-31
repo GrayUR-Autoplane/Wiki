@@ -6,6 +6,10 @@ General
 * `GrayUR SharePoint <https://virginiatech.sharepoint.com/:f:/r/sites/GrayUR/Shared%20Documents/05_Projects/01_Autoplane?csf=1&web=1&e=aIVOsu/>`_ 
    Our project folder in the GrayUR SharePoint site. This is our repository for all files and documents. 
 
+* `GrayUR-Autoplane Github Organization <https://github.com/GrayUR-Autoplane/>`_ 
+   Our Github organization. This is our home for all code and associated files. 
+
+
 * `Virginia Tech UAS Policy <https://policies.vt.edu/5820.pdf/>`_ 
    Operation of Unmanned Aircraft Systems (UAS) Policy No. 5820     
 
